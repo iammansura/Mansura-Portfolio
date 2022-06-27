@@ -150,7 +150,7 @@ h4 {
   margin-top: 50px;
 }
 /* use CSS Media Queries  */
-@media (max-width: 950px) {
+@media (max-width: 576px) {
   .images {
     display: none;
   }
