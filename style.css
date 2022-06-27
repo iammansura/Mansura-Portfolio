@@ -151,9 +151,6 @@ h4 {
 }
 /* use CSS Media Queries  */
 @media (max-width: 576px) {
-  .images {
-    display: none;
-  }
   body {
     text-align: center;
     margin: auto;
